@@ -16,6 +16,10 @@ namespace dataTypes
             double x = 56.2D;
             float precision = 50.00000001F;
             decimal money = 14.99M;
+
+            //boolean 
+            bool data = true;
+            bool y = false;
             
 
             
