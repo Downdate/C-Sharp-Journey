@@ -12,7 +12,10 @@ namespace dataTypes
 
             //numbers
             int age = 23;
-            long bigNumber = 9000000000;
+            long bigNumber = 9000000000L;
+            double x = 56.2D;
+            float precision = 50.00000001F;
+            decimal money = 14.99M;
             
 
             
