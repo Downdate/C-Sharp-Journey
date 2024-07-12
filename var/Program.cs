@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dataTypes
+namespace var
 {
     class Program
     {

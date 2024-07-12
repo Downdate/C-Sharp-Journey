@@ -1,0 +1,15 @@
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\bin\Debug\net8.0\switch.exe
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\bin\Debug\net8.0\switch.deps.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\bin\Debug\net8.0\switch.runtimeconfig.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\bin\Debug\net8.0\switch.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\bin\Debug\net8.0\switch.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\obj\Debug\net8.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\obj\Debug\net8.0\switch.AssemblyInfoInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\obj\Debug\net8.0\switch.AssemblyInfo.cs
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\obj\Debug\net8.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\obj\Debug\net8.0\switch.sourcelink.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\obj\Debug\net8.0\switch.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\obj\Debug\net8.0\refint\switch.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\obj\Debug\net8.0\switch.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\obj\Debug\net8.0\switch.genruntimeconfig.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\switch\obj\Debug\net8.0\ref\switch.dll

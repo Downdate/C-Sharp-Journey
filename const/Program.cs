@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dataTypes
+namespace constants
 {
     class Program
     {

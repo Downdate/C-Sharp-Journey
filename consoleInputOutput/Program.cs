@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Intrinsics.Arm;
 
-namespace dataTypes
+namespace inputOutput
 {
     class Program
     {
