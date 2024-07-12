@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataTypes", "dataTypes\data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "var", "var\var.csproj", "{A19CC9DC-AB43-43BF-BC5C-F5A61DEDBAAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "const", "const\const.csproj", "{DF892EE6-5F9A-4288-8492-6F101559F123}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A19CC9DC-AB43-43BF-BC5C-F5A61DEDBAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A19CC9DC-AB43-43BF-BC5C-F5A61DEDBAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A19CC9DC-AB43-43BF-BC5C-F5A61DEDBAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF892EE6-5F9A-4288-8492-6F101559F123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF892EE6-5F9A-4288-8492-6F101559F123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF892EE6-5F9A-4288-8492-6F101559F123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF892EE6-5F9A-4288-8492-6F101559F123}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
