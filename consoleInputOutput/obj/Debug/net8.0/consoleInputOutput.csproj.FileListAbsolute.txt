@@ -1,0 +1,15 @@
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\bin\Debug\net8.0\consoleInputOutput.exe
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\bin\Debug\net8.0\consoleInputOutput.deps.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\bin\Debug\net8.0\consoleInputOutput.runtimeconfig.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\bin\Debug\net8.0\consoleInputOutput.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\bin\Debug\net8.0\consoleInputOutput.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\obj\Debug\net8.0\consoleInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\obj\Debug\net8.0\consoleInputOutput.AssemblyInfoInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\obj\Debug\net8.0\consoleInputOutput.AssemblyInfo.cs
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\obj\Debug\net8.0\consoleInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\obj\Debug\net8.0\consoleInputOutput.sourcelink.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\obj\Debug\net8.0\consoleInputOutput.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\obj\Debug\net8.0\refint\consoleInputOutput.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\obj\Debug\net8.0\consoleInputOutput.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\obj\Debug\net8.0\consoleInputOutput.genruntimeconfig.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\consoleInputOutput\obj\Debug\net8.0\ref\consoleInputOutput.dll
