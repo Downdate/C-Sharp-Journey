@@ -8,7 +8,8 @@ namespace dataTypes
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello my name is Daniel!");
-            System.Console.WriteLine("please enter your name : ");
+            // no new lines 
+            System.Console.Write("please enter your name : ");
 
             string  name;
             // getting the name
