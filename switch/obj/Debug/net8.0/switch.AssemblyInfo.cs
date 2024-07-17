@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4333a2ee513d9ffdd76ac064f8d93cfc25cbecf2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8f3a5b948c11013cb7ae49f93fc803b1bb0395c")]
 [assembly: System.Reflection.AssemblyProductAttribute("switch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
