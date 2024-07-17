@@ -1,0 +1,15 @@
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\bin\Debug\net8.0\conditionalOprators.exe
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\bin\Debug\net8.0\conditionalOprators.deps.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\bin\Debug\net8.0\conditionalOprators.runtimeconfig.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\bin\Debug\net8.0\conditionalOprators.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\bin\Debug\net8.0\conditionalOprators.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\obj\Debug\net8.0\conditionalOprators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\obj\Debug\net8.0\conditionalOprators.AssemblyInfoInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\obj\Debug\net8.0\conditionalOprators.AssemblyInfo.cs
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\obj\Debug\net8.0\conditionalOprators.csproj.CoreCompileInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\obj\Debug\net8.0\conditionalOprators.sourcelink.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\obj\Debug\net8.0\conditionalOprators.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\obj\Debug\net8.0\refint\conditionalOprators.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\obj\Debug\net8.0\conditionalOprators.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\obj\Debug\net8.0\conditionalOprators.genruntimeconfig.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\conditionalOprators\obj\Debug\net8.0\ref\conditionalOprators.dll
