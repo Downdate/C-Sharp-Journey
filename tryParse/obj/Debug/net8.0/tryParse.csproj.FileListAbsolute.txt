@@ -1,0 +1,15 @@
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\bin\Debug\net8.0\tryParse.exe
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\bin\Debug\net8.0\tryParse.deps.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\bin\Debug\net8.0\tryParse.runtimeconfig.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\bin\Debug\net8.0\tryParse.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\bin\Debug\net8.0\tryParse.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\obj\Debug\net8.0\tryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\obj\Debug\net8.0\tryParse.AssemblyInfoInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\obj\Debug\net8.0\tryParse.AssemblyInfo.cs
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\obj\Debug\net8.0\tryParse.csproj.CoreCompileInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\obj\Debug\net8.0\tryParse.sourcelink.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\obj\Debug\net8.0\tryParse.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\obj\Debug\net8.0\refint\tryParse.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\obj\Debug\net8.0\tryParse.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\obj\Debug\net8.0\tryParse.genruntimeconfig.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\tryParse\obj\Debug\net8.0\ref\tryParse.dll

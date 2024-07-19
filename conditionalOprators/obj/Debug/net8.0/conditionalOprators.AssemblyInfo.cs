@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("conditionalOprators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aab628e62969dd0a110cc743532edab22895a9b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c29a233e2a731bce6a3d8860fa348870d6e2d11")]
 [assembly: System.Reflection.AssemblyProductAttribute("conditionalOprators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("conditionalOprators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
