@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditionalOprators", "cond
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryParse", "tryParse\tryParse.csproj", "{C99CAA68-0282-4D85-B64C-039C84559D8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timesTableExercise", "timesTableExercise\timesTableExercise.csproj", "{8CE38EA5-7A87-4F88-A6C7-BB618BF97D49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{C99CAA68-0282-4D85-B64C-039C84559D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C99CAA68-0282-4D85-B64C-039C84559D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C99CAA68-0282-4D85-B64C-039C84559D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE38EA5-7A87-4F88-A6C7-BB618BF97D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE38EA5-7A87-4F88-A6C7-BB618BF97D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE38EA5-7A87-4F88-A6C7-BB618BF97D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE38EA5-7A87-4F88-A6C7-BB618BF97D49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

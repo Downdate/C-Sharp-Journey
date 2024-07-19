@@ -1,0 +1,15 @@
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\bin\Debug\net8.0\timesTableExercise.exe
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\bin\Debug\net8.0\timesTableExercise.deps.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\bin\Debug\net8.0\timesTableExercise.runtimeconfig.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\bin\Debug\net8.0\timesTableExercise.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\bin\Debug\net8.0\timesTableExercise.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\obj\Debug\net8.0\timesTableExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\obj\Debug\net8.0\timesTableExercise.AssemblyInfoInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\obj\Debug\net8.0\timesTableExercise.AssemblyInfo.cs
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\obj\Debug\net8.0\timesTableExercise.csproj.CoreCompileInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\obj\Debug\net8.0\timesTableExercise.sourcelink.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\obj\Debug\net8.0\timesTableExercise.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\obj\Debug\net8.0\refint\timesTableExercise.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\obj\Debug\net8.0\timesTableExercise.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\obj\Debug\net8.0\timesTableExercise.genruntimeconfig.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\timesTableExercise\obj\Debug\net8.0\ref\timesTableExercise.dll
