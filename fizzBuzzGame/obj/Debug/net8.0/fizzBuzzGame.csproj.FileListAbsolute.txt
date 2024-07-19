@@ -1,0 +1,15 @@
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\bin\Debug\net8.0\fizzBuzzGame.exe
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\bin\Debug\net8.0\fizzBuzzGame.deps.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\bin\Debug\net8.0\fizzBuzzGame.runtimeconfig.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\bin\Debug\net8.0\fizzBuzzGame.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\bin\Debug\net8.0\fizzBuzzGame.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\obj\Debug\net8.0\fizzBuzzGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\obj\Debug\net8.0\fizzBuzzGame.AssemblyInfoInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\obj\Debug\net8.0\fizzBuzzGame.AssemblyInfo.cs
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\obj\Debug\net8.0\fizzBuzzGame.csproj.CoreCompileInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\obj\Debug\net8.0\fizzBuzzGame.sourcelink.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\obj\Debug\net8.0\fizzBuzzGame.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\obj\Debug\net8.0\refint\fizzBuzzGame.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\obj\Debug\net8.0\fizzBuzzGame.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\obj\Debug\net8.0\fizzBuzzGame.genruntimeconfig.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\fizzBuzzGame\obj\Debug\net8.0\ref\fizzBuzzGame.dll
