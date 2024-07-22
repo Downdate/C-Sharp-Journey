@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("timesTableExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d8c1374fb0694a4c1b00b21bf2cadb793c1d324")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4838222e89b7807e3142dc70cb58df7962d15337")]
 [assembly: System.Reflection.AssemblyProductAttribute("timesTableExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("timesTableExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

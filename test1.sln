@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timesTableExercise", "times
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizzBuzzGame", "fizzBuzzGame\fizzBuzzGame.csproj", "{9F5DDAD3-4465-4CF5-985F-A1F307BC7528}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printStringExercise", "printStringExercise\printStringExercise.csproj", "{DE25C33C-497D-4240-9E6D-479DAD5E0D4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{9F5DDAD3-4465-4CF5-985F-A1F307BC7528}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F5DDAD3-4465-4CF5-985F-A1F307BC7528}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F5DDAD3-4465-4CF5-985F-A1F307BC7528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE25C33C-497D-4240-9E6D-479DAD5E0D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE25C33C-497D-4240-9E6D-479DAD5E0D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE25C33C-497D-4240-9E6D-479DAD5E0D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE25C33C-497D-4240-9E6D-479DAD5E0D4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

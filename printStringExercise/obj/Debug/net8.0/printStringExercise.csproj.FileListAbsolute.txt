@@ -1,0 +1,15 @@
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\bin\Debug\net8.0\printStringExercise.exe
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\bin\Debug\net8.0\printStringExercise.deps.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\bin\Debug\net8.0\printStringExercise.runtimeconfig.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\bin\Debug\net8.0\printStringExercise.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\bin\Debug\net8.0\printStringExercise.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\obj\Debug\net8.0\printStringExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\obj\Debug\net8.0\printStringExercise.AssemblyInfoInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\obj\Debug\net8.0\printStringExercise.AssemblyInfo.cs
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\obj\Debug\net8.0\printStringExercise.csproj.CoreCompileInputs.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\obj\Debug\net8.0\printStringExercise.sourcelink.json
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\obj\Debug\net8.0\printStringExercise.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\obj\Debug\net8.0\refint\printStringExercise.dll
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\obj\Debug\net8.0\printStringExercise.pdb
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\obj\Debug\net8.0\printStringExercise.genruntimeconfig.cache
+C:\Users\abdol\OneDrive\Desktop\C# Projects\learning\printStringExercise\obj\Debug\net8.0\ref\printStringExercise.dll
