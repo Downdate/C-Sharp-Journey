@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace fizzBuzzGame
+namespace printStringExercise
 {
     class Program
     {
