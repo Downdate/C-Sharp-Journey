@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdol\\OneDrive\\Desktop\\C# Projects\\learning\\const\\const.csproj": {}
+    "D:\\Coding projects\\C-Sharp-Journey\\const\\const.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdol\\OneDrive\\Desktop\\C# Projects\\learning\\const\\const.csproj": {
+    "D:\\Coding projects\\C-Sharp-Journey\\const\\const.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdol\\OneDrive\\Desktop\\C# Projects\\learning\\const\\const.csproj",
+        "projectUniqueName": "D:\\Coding projects\\C-Sharp-Journey\\const\\const.csproj",
         "projectName": "const",
-        "projectPath": "C:\\Users\\abdol\\OneDrive\\Desktop\\C# Projects\\learning\\const\\const.csproj",
+        "projectPath": "D:\\Coding projects\\C-Sharp-Journey\\const\\const.csproj",
         "packagesPath": "C:\\Users\\abdol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdol\\OneDrive\\Desktop\\C# Projects\\learning\\const\\obj\\",
+        "outputPath": "D:\\Coding projects\\C-Sharp-Journey\\const\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

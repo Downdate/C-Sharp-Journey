@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdol\\OneDrive\\Desktop\\C# Projects\\learning\\tryParse\\tryParse.csproj": {}
+    "D:\\Coding projects\\C-Sharp-Journey\\tryParse\\tryParse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdol\\OneDrive\\Desktop\\C# Projects\\learning\\tryParse\\tryParse.csproj": {
+    "D:\\Coding projects\\C-Sharp-Journey\\tryParse\\tryParse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdol\\OneDrive\\Desktop\\C# Projects\\learning\\tryParse\\tryParse.csproj",
+        "projectUniqueName": "D:\\Coding projects\\C-Sharp-Journey\\tryParse\\tryParse.csproj",
         "projectName": "tryParse",
-        "projectPath": "C:\\Users\\abdol\\OneDrive\\Desktop\\C# Projects\\learning\\tryParse\\tryParse.csproj",
+        "projectPath": "D:\\Coding projects\\C-Sharp-Journey\\tryParse\\tryParse.csproj",
         "packagesPath": "C:\\Users\\abdol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdol\\OneDrive\\Desktop\\C# Projects\\learning\\tryParse\\obj\\",
+        "outputPath": "D:\\Coding projects\\C-Sharp-Journey\\tryParse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
